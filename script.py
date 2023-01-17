@@ -6,3 +6,4 @@ if age > 18:
 else:
      print ("sos menor de edad")
     
+print ("diego")
